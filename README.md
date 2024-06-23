@@ -1,4 +1,4 @@
-# EDA-Project-on-STEG-Dataset
+# Fraud Detection & EDA on STEG Dataset  (Unbalanced Data) 
 
 ## Project Overview
 
