@@ -41,6 +41,19 @@ that saves the company from making losses.
 - Apply undersampling to solve imbalance on the whole dataset issue
 - Applying label smoothing to improve model performance potentially.
 
+## Results 
+We tested a list of different model and different types, the models we tried were:
+- Gradient Boosting Classifier
+- Decision Tree Classifier
+- Logistic Regression
+- Cat Boost Classifier
+- Ada Boost Classifier
+
+The results determined that the best model was Decision Tree Classifier, it achieved a results as follow:
+- **Precision** 0.849
+- **Recall** 0.852
+- **Accuracy** 0.850
+
 
 
 
