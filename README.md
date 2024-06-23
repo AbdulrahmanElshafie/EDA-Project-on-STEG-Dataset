@@ -1,4 +1,4 @@
-![image](https://github.com/AbdulrahmanElshafie/EDA-Project-on-STEG-Dataset/assets/101133020/ac91106c-c2f4-465c-bb75-74fec3c98cee)# EDA-Project-on-STEG-Dataset
+# EDA-Project-on-STEG-Dataset
 
 ## Project Overview
 
